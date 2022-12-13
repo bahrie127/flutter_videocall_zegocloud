@@ -10,9 +10,9 @@ Sample project video call with zegocloud sdk
 
 ## Youtube Video
 - Flutter Video call with Zegocloud SDK step by step for begineer | Android | iOS
-[![Watch the video](https://img.youtube.com/vi/7OUK2bf3F4k/sddefault.jpg)](https://youtu.be/7OUK2bf3F4k)
+[![Watch the video](https://img.youtube.com/vi/wmCA5MbmOtA/sddefault.jpg)](https://youtu.be/wmCA5MbmOtA)
 
-https://youtu.be/7OUK2bf3F4k
+https://youtu.be/wmCA5MbmOtA
 
 
 ## ScreenShot
