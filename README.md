@@ -23,6 +23,8 @@ https://youtu.be/wmCA5MbmOtA
 
 ## Contact
 Telegram: https://t.me/bahri_bhe  
+Linkedin : https://www.linkedin.com/in/bahrie
+Youtube: https://youtube.com/@codewithbahri
 
 
 
